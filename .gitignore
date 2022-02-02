@@ -7,7 +7,6 @@
 /crypto
 # testing
 /coverage
-/src/services
 # production
 /build
 
@@ -21,4 +20,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-src/services
+/services
